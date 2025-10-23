@@ -1,5 +1,34 @@
-## Next.js App Router Course - Starter
+# 🧭 Next.js 16 Dashboard — Práctica
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Pequeño dashboard de práctica basado en la guía oficial de Next.js (App Router). Proyecto 100% educativo; no está pensado para producción.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## 🚀 Tecnologías
+
+- Next.js 16 (App Router)
+- React 19 + TypeScript
+- Tailwind CSS 3
+
+## 📚 Dependencias clave
+
+- next-auth (beta) — autenticación
+- postgres — cliente para datos
+- bcrypt — hashing
+- zod — validación
+- @heroicons/react, clsx, use-debounce
+
+## 🔎 Referencia
+
+- Documentación del curso: [nextjs.org/learn](https://nextjs.org/learn)
+
+## ▶️ Ejecución rápida (opcional)
+
+```bash
+pnpm install && pnpm dev
+# o con npm
+npm install && npm run dev
+```
+
+## 📝 Notas
+
+- Solo para aprendizaje y experimentación.
+- No incluye optimizaciones ni hardening de producción.
